@@ -1,0 +1,3 @@
+NusseltCalc.C
+
+EXE = $(FOAM_APPBIN)/NusseltCalc
